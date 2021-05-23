@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+hello i am existance
+
+yes
+go look at https://evserver.duckdns.org (or https://evelynproto.github.io if my own server is down) for info about me
+
+might move some stuff here in the future
