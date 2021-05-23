@@ -13,9 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-hello i am existance
+# Who am I?
 
-yes
-go look at http://evserver.duckdns.org (or https://evelynproto.github.io if my own server is down) for info about me
+Hi, I'm a trans girl (she/her) that likes doing programming (like 50% of the time it's pretty poggers)
 
-might move some stuff here in the future
+If you wanna talk to me (for any reason), go add me on Discord: `Eve1yn#6483` or hit me up on twitter `EvelynProto`
+
+## le epic stats
+
+![Evelyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=evelynproto&show_icons=true&theme=synthwave)
+
+![Evelyn's Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=evelynproto&langs_count=4&theme=synthwave)
+
+uhhhhhhhhhhhhhh yeah go check out the stuff above or http://evserver.duckdns.org (or https://evelynproto.github.io if my own server is down)
+
+or you know you could go click on that big repositories button at the top and check out some of them...
+that could be cool
