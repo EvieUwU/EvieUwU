@@ -25,7 +25,7 @@ If you wanna talk to me (for any reason), go add me on Discord: `Eve1yn#6483` or
 
 ![Evelyn's Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=evelynproto&langs_count=4&theme=synthwave)
 
-uhhhhhhhhhhhhhh yeah go check out the stuff above or http://evserver.duckdns.org (or https://evelynproto.github.io if my own server is down)
+uhhhhhhhhhhhhhh yeah go check out the stuff above or https://evserver.duckdns.org (or https://evelynproto.github.io if my own server is down)
 
 or you know you could go click on that big repositories button at the top and check out some of them...
 that could be cool
