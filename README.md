@@ -19,7 +19,7 @@ Hi, I'm a trans girl (she/her) that likes doing programming (like 50% of the tim
 
 If you wanna talk to me (for any reason), go add me on Discord: `EvelynUwU#6483` or hit me up on twitter `EvelynProto`
 
-## le epic stats
+## Pro grammer stats
 
 ![Evelyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=evelynproto&show_icons=true&theme=synthwave)
 
