@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hi, I'm a trans girl (she/her) that likes doing programming (like 50% of the time it's pretty poggers)
 
-If you wanna talk to me (for any reason), go add me on Discord: `Eve1yn#6483` or hit me up on twitter `EvelynProto`
+If you wanna talk to me (for any reason), go add me on Discord: `EvelynUwU#6483` or hit me up on twitter `EvelynProto`
 
 ## le epic stats
 
