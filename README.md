@@ -26,7 +26,7 @@ If you wanna talk to me (for any reason), go add me on Discord: `EvelynUwU#6483`
 ![Evelyn's Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=evelynproto&langs_count=4&theme=synthwave)
 
 ### Stuff I'm doing at the moment:
-- [Project Euler](https://projecteuler.net) - Currently up to problem 51.
+- [Project Euler](https://projecteuler.net) - Currently up to problem 57.
 - [evelynproto.github.io](https://evelynproto.github.io) - I'm sorta always thinking of stuff to do with my site.
 - A very secret project - It's very secret but I'm doing stuff on it.
 
