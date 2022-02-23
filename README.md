@@ -2,7 +2,7 @@
 
 Hi, I'm a trans girl (she/her) that likes doing programming (like 50% of the time it's pretty poggers)
 
-If you wanna talk to me (for any reason), go add me on Discord: `EvieOwO#6483` or hit me up on twitter `EvieProto` (Please DM me to tell me you are from GitHub or I am likely to just block you lmao)
+If you wanna talk to me (for any reason), go add me on Discord: `Evie <3#6483` or hit me up on twitter `EvieProto` (Please DM me to tell me you are from GitHub or I am likely to just block you lmao)
 
 ## Pro grammer stats
 
